@@ -78,31 +78,39 @@ Learning   TypeScript / GraphQL
 ## Visual Signature
 
 <div align="center">
-  <img width="100%" alt="Decorative branded visual" src="https://capsule-render.vercel.app/api?type=rect&color=0:031b11,20:0b2f1e,40:14532d,60:16a34a,80:22c55e,100:86efac&height=220&section=header&text=Shipping%20Scalable%20Products&fontSize=34&fontColor=f8fafc&fontAlignY=34&desc=Laravel%20%C3%97%20Next.js%20%C3%97%20PostgreSQL%20%C3%97%20AI%20SaaS&descSize=18&descAlignY=54&animation=fadeIn" />
-  <img width="100%" alt="Decorative branded visual" src="https://capsule-render.vercel.app/api?type=rect&color=0:031b11,20:0b2f1e,40:14532d,60:16a34a,80:22c55e,100:86efac&height=220&section=header&text=Building%20Modern%20Web%20Products&fontSize=34&fontColor=f8fafc&fontAlignY=34&desc=React%20%C3%97%20Next.js%20%C3%97%20Node.js%20%C3%97%20Laravel&descSize=18&descAlignY=54&animation=fadeIn" />
+  <img width="100%" alt="Capability banner" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,35:1d4ed8,70:0284c7,100:06b6d4&height=220&section=header&text=From%20UI%20to%20API%20to%20Database&fontSize=32&fontColor=f8fafc&fontAlignY=34&desc=Engineering%20production-ready%20web%20products%20with%20speed%2C%20clarity%2C%20and%20maintainable%20architecture&descSize=17&descAlignY=56&animation=fadeIn" />
 </div>
 
 <table>
   <tr>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/Product%20Mindset-16a34a?style=for-the-badge&labelColor=14532d&logoColor=white" alt="Product Mindset" />
+    <td width="25%" valign="top" align="center">
+      <h3>Frontend</h3>
+      <p>React, Next.js, JavaScript, HTML/CSS with clean interfaces and strong UX focus.</p>
     </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/System%20Thinking-15803d?style=for-the-badge&labelColor=14532d&logoColor=white" alt="System Thinking" />
+    <td width="25%" valign="top" align="center">
+      <h3>Backend</h3>
+      <p>Node.js, Express, PHP, and Laravel for reliable APIs and full-stack product delivery.</p>
     </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/Cloud%20Learning-166534?style=for-the-badge&labelColor=14532d&logoColor=white" alt="Cloud Learning" />
+    <td width="25%" valign="top" align="center">
+      <h3>Data Layer</h3>
+      <p>MySQL, MongoDB, and Redis for application data, caching, and performance-conscious systems.</p>
     </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/AI%20Execution-22c55e?style=for-the-badge&labelColor=14532d&logoColor=white" alt="AI Execution" />
+    <td width="25%" valign="top" align="center">
+      <h3>Growth Edge</h3>
+      <p>Learning TypeScript and GraphQL while building stronger product engineering depth.</p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <sub>Decorative brand visual for profile presentation, not a GitHub activity graph.</sub>
+  <img src="https://img.shields.io/badge/Product%20Thinking-1D4ED8?style=for-the-badge&labelColor=0F172A&logoColor=white" alt="Product Thinking" />
+  <img src="https://img.shields.io/badge/Scalable%20Architecture-0284C7?style=for-the-badge&labelColor=0F172A&logoColor=white" alt="Scalable Architecture" />
+  <img src="https://img.shields.io/badge/Clean%20Execution-06B6D4?style=for-the-badge&labelColor=0F172A&logoColor=white" alt="Clean Execution" />
 </p>
 
+<p align="center">
+  <sub>Focused on building modern product experiences that are usable, maintainable, and ready for scale.</sub>
+</p>
 ## Featured Projects
 
 <table>
