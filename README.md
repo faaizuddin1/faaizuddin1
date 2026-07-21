@@ -1,21 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1d4ed8,100:06b6d4&text=Faaiz%20Uddin&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%C3%97%20Next.js%20%C3%97%20PostgreSQL&descAlignY=57&descSize=16" alt="Faaiz Uddin banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1d4ed8,100:06b6d4&text=Faaiz%20Uddin&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20at%20WebHR%20%7C%20Full-Stack%20Product%20Builder&descAlignY=57&descSize=16" alt="Faaiz Uddin banner" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+an+AI-powered+recruitment+SaaS;Designing+scalable+full-stack+products;Focused+on+clean+architecture+and+shipping+fast;Learning+cloud-native+systems+the+right+way" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineer+at+WebHR;Building+modern+full-stack+products;React+%C3%97+Next.js+%C3%97+Laravel+%C3%97+Node.js;Learning+TypeScript+and+GraphQL" alt="Typing animation" />
 
 <p>
   <a href="https://github.com/faaizuddin1">
     <img src="https://img.shields.io/badge/GitHub-faaizuddin1-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
   </a>
-  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0f172a?style=for-the-badge&logoColor=white" alt="Role badge" />
-  <img src="https://img.shields.io/badge/Focus-SaaS%20%7C%20AI%20%7C%20Cloud-111827?style=for-the-badge&logoColor=white" alt="Focus badge" />
+  <img src="https://img.shields.io/badge/Role-Software%20Engineer-0f172a?style=for-the-badge&logoColor=white" alt="Role badge" />
+  <img src="https://img.shields.io/badge/Company-WebHR-111827?style=for-the-badge&logoColor=white" alt="Company badge" />
 </p>
 
 </div>
 
 <p align="center">
-  I build modern SaaS products with Laravel, Next.js, and PostgreSQL, with a strong bias toward scalable systems, clean UX, and production-ready execution.
+  I build modern full-stack products at WebHR with React, Next.js, Node.js, PHP, and Laravel, with a strong bias toward clean UX and production-ready execution.
 </p>
 
 <table>
@@ -24,10 +24,10 @@
 
 ## About Me
 
-- Building an AI Recruitment SaaS focused on smarter hiring workflows and better decision support.
-- Specializing in full-stack product development with Laravel, Next.js, and PostgreSQL.
-- Interested in SaaS architecture, AI-enabled features, cloud platforms, and scalable backend systems.
-- Currently learning Docker, Kubernetes, AWS, and system design to level up infrastructure depth.
+- Working as a Software Engineer at WebHR, building product-focused web experiences.
+- Specializing in full-stack development with React, Next.js, Node.js, PHP, and Laravel.
+- Comfortable across frontend, backend, and data layers with practical product ownership.
+- Currently learning TypeScript and GraphQL to deepen modern application architecture skills.
 - Focused on shipping software that looks polished, performs well, and solves real business problems.
 
   </td>
@@ -36,10 +36,10 @@
 ## Current Focus
 
 ```text
-Building   AI Recruitment SaaS
-Stack      Laravel / Next.js / PostgreSQL
-Learning   Docker / Kubernetes / AWS
-Interest   SaaS / AI / Cloud / Systems
+Role       Software Engineer at WebHR
+Frontend   React / Next.js / JavaScript / HTML-CSS
+Backend    Node.js / PHP / Laravel / Express
+Learning   TypeScript / GraphQL
 ```
 
   </td>
@@ -49,7 +49,7 @@ Interest   SaaS / AI / Cloud / Systems
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,nextjs,react,ts,tailwind,postgres,redis,docker,kubernetes,aws,git,github,vscode&theme=dark" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,nodejs,php,laravel,express,mysql,mongodb,redis,ts,graphql,git,github,vscode&theme=dark" alt="Tech stack icons" />
 </div>
 
 ## GitHub Analytics
@@ -79,6 +79,7 @@ Interest   SaaS / AI / Cloud / Systems
 
 <div align="center">
   <img width="100%" alt="Decorative branded visual" src="https://capsule-render.vercel.app/api?type=rect&color=0:031b11,20:0b2f1e,40:14532d,60:16a34a,80:22c55e,100:86efac&height=220&section=header&text=Shipping%20Scalable%20Products&fontSize=34&fontColor=f8fafc&fontAlignY=34&desc=Laravel%20%C3%97%20Next.js%20%C3%97%20PostgreSQL%20%C3%97%20AI%20SaaS&descSize=18&descAlignY=54&animation=fadeIn" />
+  <img width="100%" alt="Decorative branded visual" src="https://capsule-render.vercel.app/api?type=rect&color=0:031b11,20:0b2f1e,40:14532d,60:16a34a,80:22c55e,100:86efac&height=220&section=header&text=Building%20Modern%20Web%20Products&fontSize=34&fontColor=f8fafc&fontAlignY=34&desc=React%20%C3%97%20Next.js%20%C3%97%20Node.js%20%C3%97%20Laravel&descSize=18&descAlignY=54&animation=fadeIn" />
 </div>
 
 <table>
@@ -111,12 +112,12 @@ Interest   SaaS / AI / Cloud / Systems
       <p>AI-assisted hiring platform for resume screening, candidate matching, ATS workflows, and recruiter efficiency.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Job Portal Platform</h3>
+      <h3>WebHR Product Engineering</h3>
       <p>Full-stack recruitment product built for role discovery, employer workflows, application pipelines, and growth-ready operations.</p>
     </td>
     <td width="33%" valign="top">
       <h3>HR Analytics Dashboard</h3>
-      <p>Analytics dashboard for funnel performance, hiring KPIs, reporting visibility, and better HR decision-making.</p>
+      <p>Analytics dashboard for operational visibility, performance reporting, and better product-driven HR decisions.</p>
     </td>
   </tr>
 </table>
