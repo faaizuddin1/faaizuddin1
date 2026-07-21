@@ -1,115 +1,92 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0C64AE&text=Faaiz%20Uddin&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1d4ed8,100:06b6d4&text=Faaiz%20Uddin&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%C3%97%20Next.js%20%C3%97%20PostgreSQL&descAlignY=57&descSize=16" alt="Faaiz Uddin banner" />
 
-<h2>Full Stack Developer • Laravel • Next.js • SaaS Engineer</h2>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+an+AI-powered+recruitment+SaaS;Designing+scalable+full-stack+products;Focused+on+clean+architecture+and+shipping+fast;Learning+cloud-native+systems+the+right+way" alt="Typing animation" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=0C64AE&center=true&vCenter=true&width=800&lines=Building+Scalable+SaaS+Applications;Laravel+%2B+Next.js+Specialist;AI+Recruitment+Platform+Developer;Learning+Cloud+%26+DevOps"/>
+<p>
+  <a href="https://github.com/faaizuddin1">
+    <img src="https://img.shields.io/badge/GitHub-faaizuddin1-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
+  </a>
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0f172a?style=for-the-badge&logo=codeium&logoColor=67e8f9" alt="Role badge" />
+  <img src="https://img.shields.io/badge/Focus-SaaS%20%7C%20AI%20%7C%20Cloud-111827?style=for-the-badge&logo=icloud&logoColor=93c5fd" alt="Focus badge" />
+</p>
 
 </div>
 
-<br>
+<p align="center">
+  I build modern SaaS products with Laravel, Next.js, and PostgreSQL, with a strong bias toward scalable systems, clean UX, and production-ready execution.
+</p>
+
+## About Me
+
+- Building an AI Recruitment SaaS focused on smarter hiring workflows and better decision support.
+- Specializing in full-stack product development with Laravel, Next.js, and PostgreSQL.
+- Interested in SaaS architecture, AI-enabled features, cloud platforms, and scalable backend systems.
+- Currently learning Docker, Kubernetes, AWS, and system design to level up infrastructure depth.
+- Focused on shipping software that looks polished, performs well, and solves real business problems.
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,nextjs,react,ts,tailwind,postgres,redis,docker,kubernetes,aws,git,github,vscode&theme=dark" alt="Tech stack icons" />
+</div>
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=faaizuddin1&show_icons=true&hide_border=true&theme=transparent&title_color=60a5fa&text_color=cbd5e1&icon_color=38bdf8&ring_color=60a5fa" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=faaizuddin1&hide_border=true&background=00000000&ring=60A5FA&fire=38BDF8&currStreakLabel=E2E8F0&sideLabels=94A3B8&dates=64748B&stroke=1E293B" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faaizuddin1&layout=compact&hide_border=true&theme=transparent&title_color=60a5fa&text_color=cbd5e1" alt="Top languages" />
+</div>
+
+## Contribution Activity
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=faaizuddin1&bg_color=0d1117&color=cbd5e1&line=38bdf8&point=60a5fa&area=true&hide_border=true" alt="Contribution activity graph" />
+</div>
+
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faaizuddin1/faaizuddin1/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faaizuddin1/faaizuddin1/output/github-contribution-grid-snake.svg" />
+    <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/faaizuddin1/faaizuddin1/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+## Featured Projects
 
 <table>
-<tr>
-<td width="55%">
-
-### 👨‍💻 About Me
-
-```yaml
-name: Faaiz Uddin
-role: Full Stack Developer
-
-stack:
-  - Laravel
-  - Next.js
-  - PostgreSQL
-  - Redis
-  - Docker
-
-currently_building:
-  - AI Recruitment SaaS
-  - Enterprise HR Solutions
-
-learning:
-  - Kubernetes
-  - AWS
-  - System Design
-```
-
-</td>
-
-<td width="45%">
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=faaizuddin&theme=tokyonight&hide_border=true" />
-
-</td>
-</tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>AI Recruitment SaaS</h3>
+      <p>AI-assisted recruitment platform for resume screening, candidate matching, ATS workflows, and recruiter productivity.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Job Portal Platform</h3>
+      <p>Full-stack hiring platform built for role discovery, employer workflows, application pipelines, and scalable job operations.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>HR Analytics Dashboard</h3>
+      <p>Analytics-first dashboard for funnel metrics, hiring KPIs, reporting visibility, and data-driven HR decisions.</p>
+    </td>
+  </tr>
 </table>
 
----
-
-# ⚡ Tech Stack
+## Connect
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,nextjs,react,typescript,tailwind,mysql,postgresql,redis,docker,aws,git,github"/>
+[![GitHub](https://img.shields.io/badge/GitHub-faaizuddin1-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faaizuddin1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faaiz%20Uddin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faaizuddin1/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://faaizuddin1.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Contact-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:160710093+faaizuddin1@users.noreply.github.com)
 
 </div>
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
----
-
-# 🚀 Featured Projects
-
-### AI Recruitment SaaS
-Modern recruitment platform with AI Resume Parsing, ATS and Candidate Matching.
-
-### Job Portal Platform
-Enterprise-grade hiring system built using Next.js and Laravel.
-
-### HR Analytics Dashboard
-Advanced reporting, recruitment funnel analysis and KPI dashboards.
-
----
-
-# 🏆 Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
----
-
-<div align="center">
-
-### Connect With Me
-
-[LinkedIn](YOUR_LINKEDIN) • [Portfolio](YOUR_PORTFOLIO) • [Email](mailto:YOUR_EMAIL)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0C64AE"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,50:1d4ed8,100:06b6d4" alt="Footer banner" />
