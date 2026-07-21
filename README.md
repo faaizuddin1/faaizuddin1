@@ -35,12 +35,18 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=faaizuddin1&show_icons=true&hide_border=true&theme=transparent&title_color=60a5fa&text_color=cbd5e1&icon_color=38bdf8&ring_color=60a5fa" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=faaizuddin1&hide_border=true&background=00000000&ring=60A5FA&fire=38BDF8&currStreakLabel=E2E8F0&sideLabels=94A3B8&dates=64748B&stroke=1E293B" alt="GitHub streak" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=faaizuddin1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img height="170" src="https://streak-stats.demolab.com?user=faaizuddin1&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+  </a>
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faaizuddin1&layout=compact&hide_border=true&theme=transparent&title_color=60a5fa&text_color=cbd5e1" alt="Top languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faaizuddin1&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
+  </a>
 </div>
 
 ## Contribution Activity
@@ -49,15 +55,32 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=faaizuddin1&bg_color=0d1117&color=cbd5e1&line=38bdf8&point=60a5fa&area=true&hide_border=true" alt="Contribution activity graph" />
 </div>
 
-## Contribution Snake
+## Visual Signature
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faaizuddin1/faaizuddin1/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faaizuddin1/faaizuddin1/output/github-contribution-grid-snake.svg" />
-    <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/faaizuddin1/faaizuddin1/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img width="100%" alt="Decorative branded visual" src="https://capsule-render.vercel.app/api?type=rect&color=0:031b11,20:0b2f1e,40:14532d,60:16a34a,80:22c55e,100:86efac&height=220&section=header&text=Shipping%20Scalable%20Products&fontSize=34&fontColor=f8fafc&fontAlignY=34&desc=Laravel%20%C3%97%20Next.js%20%C3%97%20PostgreSQL%20%C3%97%20AI%20SaaS&descSize=18&descAlignY=54&animation=fadeIn" />
 </div>
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/Product%20Mindset-16a34a?style=for-the-badge&logoColor=white" alt="Product Mindset" />
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/System%20Thinking-15803d?style=for-the-badge&logoColor=white" alt="System Thinking" />
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/Cloud%20Learning-166534?style=for-the-badge&logoColor=white" alt="Cloud Learning" />
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/AI%20Execution-22c55e?style=for-the-badge&logoColor=white" alt="AI Execution" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>Decorative brand visual for profile presentation, not a GitHub activity graph.</sub>
+</p>
 
 ## Featured Projects
 
