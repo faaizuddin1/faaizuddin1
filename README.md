@@ -56,23 +56,23 @@ Interest   SaaS / AI / Cloud / Systems
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=faaizuddin1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=faaizuddin1&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_color=1D4ED8" alt="GitHub stats" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img height="170" src="https://streak-stats.demolab.com?user=faaizuddin1&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+    <img height="170" src="https://streak-stats.demolab.com?user=faaizuddin1&theme=tokyonight&border=1D4ED8&stroke=1D4ED8&ring=60A5FA&fire=38BDF8" alt="GitHub streak" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faaizuddin1&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faaizuddin1&layout=compact&langs_count=8&theme=tokyonight&border_color=1D4ED8" alt="Top languages" />
   </a>
 </div>
 
 ## Contribution Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=faaizuddin1&bg_color=0d1117&color=cbd5e1&line=38bdf8&point=60a5fa&area=true&hide_border=true" alt="Contribution activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=faaizuddin1&bg_color=0d1117&color=cbd5e1&line=38bdf8&point=60a5fa&area=true&hide_border=false" alt="Contribution activity graph" />
 </div>
 
 ## Visual Signature
