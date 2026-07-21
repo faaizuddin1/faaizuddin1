@@ -8,8 +8,8 @@
   <a href="https://github.com/faaizuddin1">
     <img src="https://img.shields.io/badge/GitHub-faaizuddin1-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
   </a>
-  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0f172a?style=for-the-badge&logo=codeium&logoColor=67e8f9" alt="Role badge" />
-  <img src="https://img.shields.io/badge/Focus-SaaS%20%7C%20AI%20%7C%20Cloud-111827?style=for-the-badge&logo=icloud&logoColor=93c5fd" alt="Focus badge" />
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0f172a?style=for-the-badge&logoColor=white" alt="Role badge" />
+  <img src="https://img.shields.io/badge/Focus-SaaS%20%7C%20AI%20%7C%20Cloud-111827?style=for-the-badge&logoColor=white" alt="Focus badge" />
 </p>
 
 </div>
@@ -18,6 +18,10 @@
   I build modern SaaS products with Laravel, Next.js, and PostgreSQL, with a strong bias toward scalable systems, clean UX, and production-ready execution.
 </p>
 
+<table>
+  <tr>
+    <td width="58%" valign="top">
+
 ## About Me
 
 - Building an AI Recruitment SaaS focused on smarter hiring workflows and better decision support.
@@ -25,6 +29,22 @@
 - Interested in SaaS architecture, AI-enabled features, cloud platforms, and scalable backend systems.
 - Currently learning Docker, Kubernetes, AWS, and system design to level up infrastructure depth.
 - Focused on shipping software that looks polished, performs well, and solves real business problems.
+
+  </td>
+    <td width="42%" valign="top">
+
+## Current Focus
+
+```text
+Building   AI Recruitment SaaS
+Stack      Laravel / Next.js / PostgreSQL
+Learning   Docker / Kubernetes / AWS
+Interest   SaaS / AI / Cloud / Systems
+```
+
+  </td>
+  </tr>
+</table>
 
 ## Tech Stack
 
@@ -64,16 +84,16 @@
 <table>
   <tr>
     <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/Product%20Mindset-16a34a?style=for-the-badge&logoColor=white" alt="Product Mindset" />
+      <img src="https://img.shields.io/badge/Product%20Mindset-16a34a?style=for-the-badge&labelColor=14532d&logoColor=white" alt="Product Mindset" />
     </td>
     <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/System%20Thinking-15803d?style=for-the-badge&logoColor=white" alt="System Thinking" />
+      <img src="https://img.shields.io/badge/System%20Thinking-15803d?style=for-the-badge&labelColor=14532d&logoColor=white" alt="System Thinking" />
     </td>
     <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/Cloud%20Learning-166534?style=for-the-badge&logoColor=white" alt="Cloud Learning" />
+      <img src="https://img.shields.io/badge/Cloud%20Learning-166534?style=for-the-badge&labelColor=14532d&logoColor=white" alt="Cloud Learning" />
     </td>
     <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/AI%20Execution-22c55e?style=for-the-badge&logoColor=white" alt="AI Execution" />
+      <img src="https://img.shields.io/badge/AI%20Execution-22c55e?style=for-the-badge&labelColor=14532d&logoColor=white" alt="AI Execution" />
     </td>
   </tr>
 </table>
@@ -88,15 +108,15 @@
   <tr>
     <td width="33%" valign="top">
       <h3>AI Recruitment SaaS</h3>
-      <p>AI-assisted recruitment platform for resume screening, candidate matching, ATS workflows, and recruiter productivity.</p>
+      <p>AI-assisted hiring platform for resume screening, candidate matching, ATS workflows, and recruiter efficiency.</p>
     </td>
     <td width="33%" valign="top">
       <h3>Job Portal Platform</h3>
-      <p>Full-stack hiring platform built for role discovery, employer workflows, application pipelines, and scalable job operations.</p>
+      <p>Full-stack recruitment product built for role discovery, employer workflows, application pipelines, and growth-ready operations.</p>
     </td>
     <td width="33%" valign="top">
       <h3>HR Analytics Dashboard</h3>
-      <p>Analytics-first dashboard for funnel metrics, hiring KPIs, reporting visibility, and data-driven HR decisions.</p>
+      <p>Analytics dashboard for funnel performance, hiring KPIs, reporting visibility, and better HR decision-making.</p>
     </td>
   </tr>
 </table>
