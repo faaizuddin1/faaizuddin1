@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1d4ed8,100:06b6d4&text=Faaiz%20Uddin&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20at%20WebHR%20%7C%20Full-Stack%20Product%20Builder&descAlignY=57&descSize=16" alt="Faaiz Uddin banner" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineer+at+WebHR;Building+modern+full-stack+products;React+%C3%97+Next.js+%C3%97+Laravel+%C3%97+Node.js;Learning+TypeScript+and+GraphQL" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineer+at+WebHR;Building+Modern+Full-Stack+Products;React+%C3%97+Next.js+%C3%97+Laravel+%C3%97+Node.js;Learning+TypeScript+and+GraphQL" alt="Typing animation" />
 
 <p>
   <a href="https://github.com/faaizuddin1">
